@@ -18,12 +18,12 @@ A collection of tools aimed at simplifying various tasks, including file managem
 - **Network Diagnostics**: Application for diagnosing and troubleshooting network issues.
 
 ### 2. Exploits
-A repository of exploits and vulnerabilities for educational and research purposes, focusing on understanding cybersecurity threats and bolstering defense mechanisms.
+A repository of exploits and vulnerabilities for educational and research purposes, focusing on understanding cybersecurity threats and bolstering defense mechanisms. Please note that some exploit plugins may trigger false positive antivirus flags due to obfuscation, encryption, and conversion techniques employed for security purposes.
 
 - **Exploit Library**: Catalog of known exploits and vulnerabilities with detailed explanations and mitigation strategies.
 - **Penetration Testing Tools**: Suite of tools for conducting penetration testing and vulnerability assessments on systems and networks.
 
-### 3. Activation Key Activator
+### 3. Windows Product Key Activator
 Facilitates the activation of Windows 10/11 using legitimate methods, ensuring compliance with licensing agreements and avoiding unauthorized activation methods.
 
 - **Key Activation**: Utility for activating Windows operating systems using valid activation keys.
