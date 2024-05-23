@@ -31,11 +31,12 @@ Facilitates the activation of Windows 10/11 using legitimate methods, ensuring c
 
 ## Usage
 
-1. Clone the Nextron repository to your local machine.
-2. Explore the available projects and select the ones that best fit your needs.
-3. Follow the instructions provided in each project's README for installation and usage guidance.
-4. Enjoy the benefits of Nextron's versatile tools and utilities for personal use.
-5. Feel free to contribute back to the community by sharing your improvements or reporting any issues.
+1. Download the latest release of the Nextron executable from the official GitHub repository.
+2. Run the downloaded executable on your local machine.
+3. Explore the available projects and select the ones that best fit your needs.
+4. Follow the instructions provided in each project's README for usage guidance.
+5. Enjoy the benefits of Nextron's versatile tools and utilities for personal use.
+6. Feel free to contribute back to the community by sharing your improvements or reporting any issues.
 
 ## Contributing
 
